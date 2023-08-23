@@ -6,7 +6,8 @@ The available languages are :
   <li>Java</li>
   <li>C</li>
 </ul>
-Programs are available at the respective folders
+Programs are available at the respective folders. <br>
 <marquee>
-  The codes are developed by
+  The codes are developed by 
+  <a href="https://github.com/08YOGESH/">Yogesh Raja</a>
 </marquee>
