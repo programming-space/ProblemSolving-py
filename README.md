@@ -8,4 +8,4 @@ The available languages are :
 </ul>
 Programs are available at the respective folders. <br>
 Codes developed and designed by 
-<a href="https://github.com/08YOGESH/">Yogesh Raja</a>
+<a href="https://github.com/yogeshraja08/">Yogesh Raja</a>
